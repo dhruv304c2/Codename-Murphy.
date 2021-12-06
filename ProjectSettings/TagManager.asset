@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Pickups
+  - EnemyDie
+  - EnemyHit
+  - EnemyShoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - UI
+  - PlayerThroughWalls
+  - Player
+  - Ground
+  - Player
+  - Enemy
+  - Pickups
+  - PlayerConstraints
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1690592331
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 421766957
+    locked: 0
+  - name: Player
+    uniqueID: 2567326665
+    locked: 0
+  - name: Ground
+    uniqueID: 968609129
+    locked: 0
+  - name: UI
+    uniqueID: 2628794249
+    locked: 0

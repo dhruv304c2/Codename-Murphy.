@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{09A47417-5AE5-D45B-143B-FF79528F4316}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerHealth.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerShooting.cs" Line="34" Column="17" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
+      <File FileName="Assets/Scripts/EnemyBehaviours.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/EnemyCounter.cs" />
+      <File FileName="Assets/Scripts/ControlRandomizer.cs" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="64" Column="6" />
+      <File FileName="Assets/Scripts/GameScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="46" Column="38" />
+      <File FileName="Assets/Scripts/EnableCursor.cs" Line="10" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackTrace (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerHealth.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0ad89365-e699-4dfe-85b3-f991078c8189" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
